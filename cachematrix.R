@@ -56,3 +56,4 @@ cacheSolve <- function(x, ...) {
 #y    0  0.25 -0.20833333
 #z    0  0.00  0.16666667
 
+#Kind regards
